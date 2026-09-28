@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookstoreSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\migrations\\20260928124457_fluentbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\migrations\\20260928124457_fluentbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\dbcontexts\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\dbcontexts\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\migrations\\20260928124011_annotateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\migrations\\20260928124011_annotateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\migrations\\20260928123015_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\migrations\\20260928123015_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|d:\\bookstoresystem\\bookstoresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB13E3D-9593-44EC-BBCF-9B2C905C5BF3}|BookstoreSystem\\BookstoreSystem.csproj|solutionrelative:bookstoresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260928124457_FluentBook.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928124457_FluentBook.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Migrations\\20260928124457_FluentBook.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928124457_FluentBook.cs",
+              "RelativeToolTip": "BookstoreSystem\\Migrations\\20260928124457_FluentBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:44:58.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260928124011_AnnotateAuthor.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928124011_AnnotateAuthor.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Migrations\\20260928124011_AnnotateAuthor.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928124011_AnnotateAuthor.cs",
+              "RelativeToolTip": "BookstoreSystem\\Migrations\\20260928124011_AnnotateAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:40:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260928123015_InitialCreate.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928123015_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Migrations\\20260928123015_InitialCreate.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Migrations\\20260928123015_InitialCreate.cs",
+              "RelativeToolTip": "BookstoreSystem\\Migrations\\20260928123015_InitialCreate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:30:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookstoreDbContext.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\DbContexts\\BookstoreDbContext.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\DbContexts\\BookstoreDbContext.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\DbContexts\\BookstoreDbContext.cs",
+              "RelativeToolTip": "BookstoreSystem\\DbContexts\\BookstoreDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:09:17.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Models\\Author.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Models\\Author.cs",
+              "RelativeToolTip": "BookstoreSystem\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:02:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Models\\Book.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Models\\Book.cs",
+              "RelativeToolTip": "BookstoreSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:01:56.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BookstoreSystem\\BookstoreSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BookstoreSystem\\Program.cs",
+              "ToolTip": "D:\\BookstoreSystem\\BookstoreSystem\\Program.cs",
+              "RelativeToolTip": "BookstoreSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:51:20.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
